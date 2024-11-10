@@ -1,5 +1,3 @@
-package Dockerfile
-
 FROM golang:1.22
 
 RUN mkdir /cmd
